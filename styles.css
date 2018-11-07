@@ -1,5 +1,5 @@
 html{
-            background:yellow;
+            background:purple;
 }
 h1{
     color:red;
@@ -11,3 +11,6 @@ img{
     width:520px;
 }
     h1{font-family: 'Kumar One Outline', cursive;}
+h2{font-family: 'Anton', sans-serif;
+    color:yellow;}
+   
